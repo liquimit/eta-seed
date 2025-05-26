@@ -1,0 +1,11 @@
+﻿manifesto.md — Cosmic / Philosophical Justification
+# Manifesto: Eta, nSphere, and the Thermodynamics of Living Logic (TLoL)
+
+
+This project asserts that the universe is inherently creative. Systems transform cost into consequence. We measure this transformation with Eta (η = K / J). The more novel and consequential the output, the higher the Eta.
+
+
+The nSphere is the conceptual space of all such systems. TLoL governs their development: systems grow more expressive, recursive, self-refining.
+
+
+We offer Eta as a tool for thought, code, science, art, and living.

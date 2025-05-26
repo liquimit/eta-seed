@@ -1,0 +1,19 @@
+﻿seed_spec.md — Technical + Conceptual Primer
+# SEED SPEC
+
+
+## Eta Engine
+- **Eta (η)** = Novelty (K) / Cost (J)
+- A general-purpose model to evaluate systems based on how much meaningful difference (K) they produce for how much resource input (J).
+- Use it to evaluate machines, prompts, biological systems, AI outputs.
+
+
+## nSphere
+- All systems exist in a notional space of potential machines transforming input into meaningful output.
+- Dimensions may include scale, recursion, novelty, cost, coherence.
+
+
+## Use
+- Import `eta_engine.py`
+- Pass any system function as task, and define cost and novelty measures appropriate to your domain.
+- Returns: output, eta value, novelty, and cost.

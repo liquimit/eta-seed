@@ -1,0 +1,43 @@
+﻿eta_engine.py — Core Engine Code
+
+
+import math
+from typing import Callable, Any
+from collections import Counter
+
+
+def eta(k: float, j: float) -> float:
+    """Compute Eta (η = K / J)."""
+    return k / j if j != 0 else float('inf')
+
+
+def eta_engine(task_fn: Callable[..., Any], cost_fn: Callable[[Any], float], novelty_fn: Callable[[Any], float], *args, **kwargs):
+    """
+    Run a task function and evaluate its Eta.
+
+
+    Args:
+        task_fn: Function representing the system/task
+        cost_fn: Function that measures cost J
+        novelty_fn: Function that measures informational gain K
+        args, kwargs: Inputs for the task_fn
+
+
+    Returns:
+        result: Output of the task
+        eta: Novelty per cost (η = K / J)
+        K: Novelty (meaningful difference)
+        J: Cost (work, time, size, etc.)
+    """
+    result = task_fn(*args, **kwargs)
+    J = cost_fn(result)
+    K = novelty_fn(result)
+    return result, eta(K, J), K, J
+
+
+# Helper: calculate entropy-based novelty
+def entropy(result: str) -> float:
+    counts = Counter(result)
+    total = len(result)
+    probs = [count / total for count in counts.values()]
+    return -sum(p * math.log2(p) for p in probs)

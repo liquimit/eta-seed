@@ -1,0 +1,25 @@
+﻿minimal_eta_python.py — Runnable Example
+
+
+from eta_engine import eta_engine, entropy
+
+
+# Example task: reverse a string
+def task(text: str) -> str:
+    return text[::-1]
+
+
+# Cost = number of characters
+def cost(result: str) -> float:
+    return len(result)
+
+
+if __name__ == "__main__":
+    text = "hello world"
+    result, eta_value, K, J = eta_engine(task, cost, entropy, text)
+
+
+    print(f"Result: {result}")
+    print(f"Eta: {eta_value:.4f}")
+    print(f"K (novelty): {K:.4f}")
+    print(f"J (cost): {J}")

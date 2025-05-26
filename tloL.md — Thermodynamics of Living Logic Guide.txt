@@ -1,0 +1,16 @@
+﻿tloL.md — Thermodynamics of Living Logic Guide
+# TLoL: Thermodynamics of Living Logic
+
+
+TLoL is the principle that systems evolve not just to survive but to generate increasing consequential novelty efficiently.
+
+
+### Phases of TLoL:
+1. **Observe** — Detect or measure state
+2. **Model** — Form a predictive or generative structure
+3. **Perturb** — Act or explore based on the model
+4. **Evaluate** — Measure K (novelty) and J (cost)
+5. **Iterate** — Adapt the model
+
+
+TLoL governs learning systems, living systems, and intelligent machines.
