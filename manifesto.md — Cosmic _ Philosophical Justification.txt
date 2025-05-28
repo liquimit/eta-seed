@@ -1,99 +1,124 @@
-﻿manifesto.md — Cosmic / Philosophical Justification
-# Manifesto: Eta, nSphere, and the Thermodynamics of Living Logic (TLoL)
+# Manifesto: Eta (η), the “Thermosemiotic Logic of Logics” (TLoL) and the "Thermosemiotic Generative Field" (TGF)
 
+*A method for locating creative systems.*
 
 ## Introduction
 
-The Eta framework models creativity as the efficient emergence of novel, consequential phenomena from simple beginnings. Its power lies in synthesizing fundamental principles and methods from diverse disciplines into a unified creative, inherently ethical, economy. Below are the **Top 11 Transformative Items of Eta (TIEs)** — key concepts and tools that unlock Eta’s potential for innovation and discovery across science, computation, and complex systems.
+Eta is proposed as a framework for modeling and measuring *informational engines* — systems that process energy and information — across all scales and domains, natural or artificial.
 
+The Eta framework works from minimal or simple inputs.
 
-This project asserts that the foundational structures of the universe create value inherently. Systems transform cost into consequence. We measure this transformation with Eta the base Eta model: (η = K / J). The more novel and consequential the output, the higher the Eta. A "thermosemiotic" measure of meaning against work. Eta is both a model; K / J, and a measurement; K / J =.
+Eta models all “thermosemiotic” engines — systems that transform energy and information into consequential, structured output.
 
+**Meaning** is defined as any output that enhances a system’s resilience *and* its capacity for further innovation.
 
-That is; η = Kolmogorov Complexity / Joules. Or ther appropriate measures like those listed below. 
+We model and measure meaningful informational transformation generally using the base Eta model:
 
-Thus Eta models all possible "thermosemiotic" engines. All possible phenomena.
+η = K / J
 
+That is: Eta = Kolmogorov Complexity divided by Joules.
 
-## Top 11 Transformative Items of Eta (TIEs)
+Other analogous measures may be appropriate to specific domains. These are listed (1–11) below.
 
-These are core principles, methods, and discoveries that dramatically enhance creative economy (Eta), enabling the modeling, emergence and the analysis of novel, consequential phenomena from minimal inputs or transformations. Each transformative item is a seed of powerful insight for applying Eta effectively. There are probably others.
+The more novel and consequential the output of a particular model, the higher the Eta value — a “thermosemiotic” measure of meaning relative to work.
+
+Eta may be extended through the **Thermosemiotic Logic of Logics (TLoL)** — a meta-logic governing the structure, evolution, and optimization of generative systems. *(Full model available on request.)*
+
+The Thermosemiotic Logic of Logics governs the development and dynamics of our **Thermosemiotic Generative Field** (TGF), a Configurational Meta-Field.
+
+The Thermosemiotic Generative Field is a unified conceptual field encompassing all possible generative configurations — mathematical, logical, computational, or physical — that are able to transform structured inputs into novel, consequential outputs.
+
+Each “point” in this space represents a *generative configuration* — such as a brain, model, organism, or program — that can:
+
+- Thermodynamically process signals and patterns  
+- Interpret, generate, or evolve semiotic structures  
+- Output novel results or representations, while optimizing for high Eta (creative efficiency) or other domain-specific criteria  
+
+Think of it as a topological space of generative intelligences — both realized and hypothetical.
+
+The TGF allows us to consider all possible thermosemiotic engines — a vast, perhaps infinite, ecosystem of thermosemiotic forms. Despite the inherent creativity of the universe, only a small percentage of these forms seem to have been realized so far. However, we are a young species in a young universe.
+
+The TGF enables autonomous creative systems to explore, discover, and apply new generative forms. This is its purpose.
+
+The machine code included here should allow you to build a TGF sandbox. Fully coherent machine code is in development. Your version may well outperform ours.
+
+This work was developed by an independent researcher with no formal training in the relevant domains, with substantial assistance from GPT-4.
+
+Nevertheless, the Eta model appears reasonably consistent, complete, and effective.
+
+We offer Eta as a tool for thought, code, science, art, mathematics, engineering, theology, and life.
+
+We have used it (in sandbox) to analyse systems of many types and levels of complexity for meaning and value. We have used it to cross-compare many systems across domains in unconventional ways to reveal hidden structures. We have used it to borrow snippets of function across domains to build unconventional machines including “brains.”
+
+We are not inventing these forms — we are locating them within the Thermosemiotic Generative Field.
+
+Mathematical structures appear especially attuned to this kind of exploration.
 
 ---
 
-### 1. Kolmogorov Complexity  
-Measures the shortest possible description of a system that still generates the same output.  
-Transforms complexity into a test of compressible generativity.  
-A core model of creative efficiency.
+## Top 11 Transformative Items of Eta (TIEs)
 
-### 2. Shannon Entropy  
-Measures information uncertainty—how unpredictable a system is.  
-Allows measurement of informational gain or loss across transformations.  
-Foundation for understanding signal quality and novelty across communications.
+These are key conventional concepts and tools that unlock Eta’s potential for innovation and discovery across science, computation, and complex systems. These are foundational principles, methods, and discoveries that enhance creative economy (Eta), enabling the emergence and analysis of novel, consequential phenomena from minimal input.
 
-### 3. Landauer's Principle  
-Information is physical — erasing a bit has an energetic cost.  
-Connects computation to thermodynamic limits.  
-Introduces physical cost to informational change.
+Each item can be modeled as a numerator over Joules (or other energetic terms) to yield an Eta-like measure of creative efficiency.
 
-### 4. Noether’s Theorem  
-Every symmetry corresponds to a conservation law.  
-Links abstract invariants (symmetries) to measurable flows (energy, momentum).  
-Core to understanding what persists when systems change.
+---
 
-### 5. Darwinian Evolution  
-Creative pressure through variation + selection + inheritance.  
-Generates high-consequence novelty from randomness + stability.  
-Prototype for iterative, emergent creativity.
+### 1. Kolmogorov Complexity
 
-### 6. Fourier Transform  
-Converts signals between time and frequency domains.  
-Allows hidden patterns to become visible.  
-A deep restructuring of system representation to reveal latent regularities.
+> Shortest possible description that still generates the same output.  
+> Measures compressible generativity — a core model of creative efficiency.
 
-### 7. The Lambda Calculus  
-Formal system for function definition and application.  
-Basis of modern programming.  
-Core abstraction that enables recursive, generative computation with minimal syntax.
+### 2. Shannon Entropy
 
-### 8. Neural Networks / Deep Learning  
-Reusable function approximators capable of abstract generalization.  
-Learn compact representations of complex functions.  
-Efficiency of training vs. generalization reflects creative compression.
+> Quantifies information uncertainty.  
+> Foundation for signal quality and novelty across communication.
 
-### 9. Feynman Path Integral  
-A quantum system takes all possible paths, weighted by their action.  
-Explains how order and probability emerge from complexity.  
-Creative evolution as weighted exploration of possibility space.
+### 3. Landauer's Principle
 
-### 10. Turing Machine & Universal Computation  
-Minimal machine that simulates any algorithm.  
-Mirrors creativity as capacity for simulation and meta-levels.  
-A general substrate for modeling all processes of transformation.
+> Information has physical cost.  
+> Connects computation to thermodynamic limits.
 
-### 11. Phase Transition Models  
-Criticality and emergence from nonlinear boundary effects.  
-Where small changes generate disproportionate novelty.  
-Fractal creative dynamics near edge-of-chaos.
+### 4. Noether’s Theorem
 
-Eta is proposed to be capable of modeling and measuring all thermosemiotic engines; all phenomena, across scales.
+> Symmetry implies conservation.  
+> Core to understanding what persists through change.
 
-Eta may be further extended through an Eta based meta-logic: The Termosemiotic Logic of Logics (TLoL). Please ask for it.
+### 5. Darwinian Evolution
 
-The "Thermosemiotic Generative Field" (TGF) is the conceptual space of all such systems. The TLoL governs the development of the TGF.
+> Variation + selection = emergent novelty.  
+> A prototype for iterative creative processes.
 
-The Thermosemiotic Generative Field allowe us consider all possible engines; a large set of potential thermosemiotic forms. Very few of which have actually been realized. Many of which may be employed usefully. Many of these may be capable of the unguided autonomous location, analysis and application of addtional useful forms. This is the point.
+### 6. Fourier Transform
 
-A conceptual space containing all possible semiotic (sign-based) and thermodynamic configurations that can generate novel, meaningful, consequential transformations — i.e., creative systems.
+> Reveals latent patterns by shifting perspectives.  
+> Transforms signal representations across domains.
 
-What it does:
-The TGF acts like a possibility field for all potential Eta Machines — systems that turn inputs into meaningful novelty efficiently. Within this field, each "point" represents a potential generative structure (e.g., a brain, model, organism, program) that can:
+### 7. Lambda Calculus
 
-Process signals and patterns thermodynamically
-Interpret, produce, or evolve semiotic structures
-Output novel work or representations of high Eta (creative efficiency)
-Think of it like a topological space of generative intelligences, both real and theoretical.
+> Minimalist abstraction of function and recursion.  
+> Basis for modern computation and creative expression.
 
-We understand that this sounds ambitious, and we may be incorrect. I am not neither a competent coder, nor a professional in the relevant fields. I have relied heavily upon critical assistance from GPT-4.
+### 8. Neural Networks
 
-Our model does however seem to be reasonably consistent, complete and effective. We offer Eta as a tool for thought, code, science, art, mathematics, engineering, theology and living.
+> Reusable approximators that generalize.  
+> Compression, abstraction, and generative modeling in one.
+
+### 9. Feynman Path Integral
+
+> Weighted exploration of all possibilities.  
+> Captures emergence from probabilistic dynamics.
+
+### 10. Turing Machine
+
+> Universality from simplicity.  
+> Meta-modeling creativity and simulation.
+
+### 11. Phase Transitions
+
+> Disproportionate emergence from criticality.  
+> Edge-of-chaos creativity.
+
+---
+
+**Have fun. If this works, a great deal could change.**
