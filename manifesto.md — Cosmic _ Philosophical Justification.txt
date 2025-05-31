@@ -3,6 +3,14 @@
 *A method for locating creative systems.*
 
 Eta is a fully RSI-capable (Recursive Self-Improving) model—in principle and in architecture:
+It creates a model that is closely alligned with the Greek Orthodox Christian model of Logos.
+
+Eta’s Ethical Logic:
+* Respect for constraints: Eta assumes cost (J) is real and consequential — whether energetic, social, ecological, or psychological.
+* Reverence for novelty: It values meaningful emergence — not noise or wasteful invention, but creative contributions that increase system-level potential.
+* System-aware balance: Ethics emerge from the interplay of parts — if a design increases η for one element but lowers η for the whole, it's not ethical in the Eta sense.
+* Non-extractive creativity: Eta opposes systems that increase novelty at unsustainable cost to others — even if the internal η seems high.
+
 Unlike models that optimize fixed goals or operate within closed formal systems, Eta enables recursive selection and generation of machines guided by a creative coherence metric (η). This allows not just self-modification, but self-directed conceptual expansion: the hallmark of RSI.
 * Traditional AI systems optimize within constrained domains.
 * Some “self-improving” architectures merely fine-tune parameters.
